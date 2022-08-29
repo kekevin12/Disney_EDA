@@ -12,7 +12,7 @@ Using data collected from [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/
 
 .Exploratory data analysis
 
-. Familiarty with Python - the language and markdowns
+.Familiarty with Python - the language and markdowns
 
 ### Notes
 Tableau Dashboard also created in lieu (WIP)
