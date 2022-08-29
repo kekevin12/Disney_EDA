@@ -6,7 +6,7 @@ Using data collected from [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/
 [Disney+ EDA](https://github.com/kekevin12/Disney_EDA/blob/main/disney_data.ipynb)
 
 ### Skills Demonstrated
-.Data visualization in Python (Plot.ly)
+.Data visualization in Python (Plotly, matplotlib)
 
 .Dataset manipulation (Pandas)
 
