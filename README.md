@@ -15,4 +15,4 @@ Using data collected from [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/
 .Familiarty with Python - the language and markdowns
 
 ### Notes
-Tableau Dashboard also created in lieu (WIP)
+Since Github performs a static render on notebook files, plots are displayed as a .png files instead of usually being interactive.
