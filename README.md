@@ -14,5 +14,8 @@ Using data collected from [Kaggle](https://www.kaggle.com/datasets/victorsoeiro/
 
 .Familiarty with Python - the language and markdowns
 
+### Tableau Visualization
+[Visualization] (https://public.tableau.com/app/profile/kevin3453/viz/DisneyBreakdown/Dashboard1)
+
 ### Notes
 Since Github performs a static render on notebook files, plots are displayed as a .png files instead of usually being interactive.
